@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b2ec958-8617-41d8-941c-e77edca6f00e": {
+      "ProjectGuid": "7b2ec958-8617-41d8-941c-e77edca6f00e",
+      "DisplayName": "Notes",
+      "ColorIndex": 0
+    },
+    "9a31bddc-800b-4ed5-ad00-1783afb8a0d0": {
+      "ProjectGuid": "9a31bddc-800b-4ed5-ad00-1783afb8a0d0",
+      "DisplayName": "Notes.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
